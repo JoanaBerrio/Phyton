@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from goto import with_goto
+from goto import with_goto  #sudo pip install goto
 @with_goto  # Decorador necesario.
 
 class mi_calculadora:
